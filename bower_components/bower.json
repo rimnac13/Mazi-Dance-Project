@@ -1,0 +1,20 @@
+{
+  "name": "Mazi",
+  "authors": [
+    "Lauren Rimnac <lrimnac@gmail.com>"
+  ],
+  "description": "rebuild of website",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
